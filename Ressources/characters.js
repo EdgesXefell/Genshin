@@ -39,7 +39,7 @@ const characters = {
         "idle1" : "",
         "idle2" : "",
         "constellation" : "", 
-        "TCG" : "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Yun_Jin_Character_Card.png/revision/latest?cb=20240528044509",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Yunjin.sm.png?vh=2024060201",
         "TCG_" : "",
         "dish" : ""
     },
@@ -176,23 +176,23 @@ const characters = {
         "dish" : ""
     },
     "Aether" : {
-        "icon" : "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Aether_Icon.png/revision/latest?cb=20231214221903",
-        "card" : "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Traveler_Male_Card.png/revision/latest/scale-to-width-down/1000?cb=20220725205310",
+        "icon" : "",
+        "card" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E6%2597%2585%25E8%25A1%258C%25E8%2580%2585%25EF%25BC%2588%25E6%2597%25A0%25E5%25B1%259E%25E6%2580%25A7%25EF%25BC%2589/avatar_header.jpg",
         "avatar" : "",
-        "idle1" : "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Idle_Aether_1.gif/revision/latest?cb=20211008215442",
-        "idle2" : "https://static.wikia.nocookie.net/gensin-impact/images/0/0f/Idle_Aether_2.gif/revision/latest?cb=20211008215521",
+        "idle1" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/29/158750877/85c4578881d9bf1e14268b8f40127840_4357875121624639498.gif",
+        "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/29/158750877/3f7dbc4172218929015021e24bb88fdd_5769882902188669098.gif",
         "constellation" : "", 
         "TCG" : "",
         "TCG_" : "",
         "dish" : ""
     },
     "Lumine" : {
-        "icon" : "https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Lumine_Icon.png/revision/latest?cb=20231214221939",
-        "card" : "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Traveler_Female_Card.png/revision/latest/scale-to-width-down/1000?cb=20220725205304",
+        "icon" : "",
+        "card" : "",
         "avatar" : "",
-        "idle1" : "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Idle_Lumine_1.gif/revision/latest?cb=20211008214943",
-        "idle2" : "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Idle_Lumine_2.gif/revision/latest?cb=20211008215049",
-        "constellation" : "", 
+        "idle1" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/23/43281454/ccfa6241c7aa46c083decc16572a5994_5537472393768627302.gif",
+        "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/23/43281454/352d9d639f31486eb2744d38d3e69502_6839172445524588178.gif",
+        "constellation" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/23/43281454/b52c223c26ffc36476ad3bb30f9f37cb_3673296951365891804.png?x-oss-process=image%2Fformat%2Cwebp", 
         "TCG" : "",
         "TCG_" : "",
         "dish" : ""
@@ -556,7 +556,7 @@ const characters = {
         "idle1" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/31/158750877/95dc4aba4a15be0ec9af5c33a541f05f_4521577951445719267.gif",
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/31/158750877/f5a882ce0e420d5381fcc3df650f262c_8979047915649186823.gif",
         "constellation" : "", 
-        "TCG" : "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Yelan_Character_Card.png/revision/latest?cb=20231221225634",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Yelan.sm.png?vh=2024060201",
         "TCG_" : "",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Dew-Dipped%2520Shrimp_icon.png"
     },
@@ -678,7 +678,7 @@ const characters = {
         "idle1" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/07/43281454/bf14b6fb43e946ae5e584e8ef75a23a9_7203403567998196376.gif",
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/07/43281454/4b42908b8a897d5b4df5d6793ae7dae6_7233798954491274693.gif",
         "constellation" : "", 
-        "TCG" : "https://static.wikia.nocookie.net/gensin-impact/images/0/06/Faruzan_Character_Card.png/revision/latest?cb=20240425211827",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Faruzan.sm.png?vh=2024060201",
         "TCG_" : "",
         "dish" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/30/43281454/1bdb53b78fff77ebbe3379e181ed147b_7266268931198784545.png?x-oss-process=image%2Fformat%2Cwebp"
     },
@@ -788,8 +788,8 @@ const characters = {
         "idle1" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/16/43281454/3413566d2a855de4da156e645edadc4a_7206594373482645790.gif",
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/16/43281454/e1081d4ff018a6b94cdd1be093148e9a_8421807690876553332.gif",
         "constellation" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/16/43281454/fcf641ab5cd4f758d614ceeb8bdc3e52_210139532476396698.png?x-oss-process=image%2Fformat%2Cwebp", 
-        "TCG" : "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Lyney_Character_Card.png/revision/latest?cb=20231221225303",
-        "TCG_" : "https://static.wikia.nocookie.net/gensin-impact/images/7/77/Lyney_Dynamic_Skin.gif/revision/latest?cb=20240119040409",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Liney.sm.png?vh=2024060201",
+        "TCG_" : "",
         "dish" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/01/10/170542231/28beb2675bd3b7c1115c2794e6dd5b55_815686522180050028.png?x-oss-process=image%2Fformat%2Cwebp"
     },
     "Freminet" : {
@@ -810,7 +810,7 @@ const characters = {
         "idle1" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/10/21/43281454/cfa00a2e63e1cd95894156f11b3d37a2_6502135244088655412.gif",
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/10/21/43281454/6186ce2180a5c8de7d8e79d2ecd37ab2_4507531304490438684.gif",
         "constellation" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/10/21/43281454/80ffbbd813c7090916a115c1eb54ddd8_8818592792962160564.png?x-oss-process=image%2Fformat%2Cwebp", 
-        "TCG" : "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Wriothesley_Character_Card.png/revision/latest?cb=20240528044505",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Wriothesley.sm.png?vh=2024060201",
         "TCG_" : "",
         "dish" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/01/09/170542231/6956953a457207cef0f0b79e780a5d52_2762436963158245848.png?x-oss-process=image%2Fformat%2Cwebp"
     },
