@@ -5,7 +5,7 @@ const bleu = {
     ],
     SUB : ["Xiangling", "Bennett", "Ganyu", "Kaedehara Kazuha", "Xingqiu",
         "Sangonomiya Kokomi", "Beidou", "Diona", "Fischl", "Furina", "Yun Jin",
-        "Kuki Shinobu", "Shenhe", "Nahida", "Aether"
+        "Kuki Shinobu", "Shenhe", "Nahida", "Aether", "Thoma"
     ]
 }
 
@@ -18,10 +18,6 @@ const bords = {
         "Xiangling", "Lumine", "Yae Miko", "Xingqiu", "Faruzan", "Yun Jin", "Gorou",
     ]
 }
-
-const commun_sub = ["Xiangling", "Bennett", "Xingqiu", "Kuki Shinobu", "Fischl", "Yun Jin",
-    "Beidou", "Diona"
-];
 
 const CoopBosses = Object.keys(weekly_bosses);
 

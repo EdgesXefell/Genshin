@@ -167,15 +167,15 @@ const characters = {
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Summer%2520Festival%2520Fish_icon.png"
     },
     "Thoma" : {
-        "icon" : "",
-        "card" : "",
-        "avatar" : "",
-        "idle1" : "",
-        "idle2" : "",
+        "icon" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Thoma_icon.png",
+        "card" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E6%2589%2598%25E9%25A9%25AC/avatar_header.jpg",
+        "avatar" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E6%2589%2598%25E9%25A9%25AC/avatar.png",
+        "idle1" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/30/158750877/68f16b1cddf1ddaf40eedfccfd9170fb_5233486156421679442.gif",
+        "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/30/158750877/53683b1e6316b624a28e74ba73276254_1720829626750317514.gif",
         "constellation" : "", 
         "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Tohma.sm.png?vh=2024060201",
         "TCG_" : "",
-        "dish" : ""
+        "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/%2522Warmth%2522_icon.png"
     },
     "Aether" : {
         "icon" : "https://upload-os-bbs.hoyolab.com/upload/2021/08/03/141256589/5ae11657b3f1494663bb386875343a9e_4124256634080313161.png",
