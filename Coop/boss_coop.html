@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+
+<html>
+
+
+    <head>
+        <link rel="stylesheet" href="boss_coop.css">
+    </head>
+
+    <body>
+
+        <!-- Button -->
+        <section style="height: 60px;">
+            
+            <a class="generate" onclick="generateBossCoop()">Générer !</a>
+        </section>
+
+        <section>
+            <div class="content">
+
+                <!-- PLAYER ONE -->
+                <div class="player" id="player-one" onclick="generatePlayer(1,p1)"> 
+                    <div class="character" id="dps-one">
+                        <h2>Name</h2>
+                        <div class="img-frame">
+                            <!-- img -->
+                        </div>
+                    </div>
+                    <div class="character" id="sub-one">
+                        <h2>Name</h2>
+                        <div class="img-frame">
+                            <!-- img -->
+                        </div>
+                    </div>
+                </div>
+
+                <!-- BOSS -->
+                <div class="boss" id="boss" onclick="generateBoss()">
+                    <h2>
+                        Boss
+                    </h2>
+                    <div class="img-frame">
+                        <!-- img -->
+                    </div>
+                </div>
+
+                <!-- PLAYER TWO -->
+                <div class="player" id="player-two" onclick="generatePlayer(2,p2)"> 
+                    <div class="character" id="dps-two">
+                        <h2>Name</h2>
+                        <div class="img-frame">
+                            <!-- img -->
+                        </div>
+                    </div>
+                    <div class="character" id="sub-two">
+                        <h2>Name</h2>
+                        <div class="img-frame">
+                            <!-- img -->
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+    </body>
+
+    <footer>
+        <script src="../Ressources/characters.js"></script>
+        <script src="boss_coop.js"></script>
+    </footer>
+
+</html>

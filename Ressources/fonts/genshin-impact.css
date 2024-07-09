@@ -1,0 +1,13 @@
+@font-face {
+  font-family: HYWenHei;
+  src: url(genshin-impact.woff2) format("woff2"),
+    url(genshin-impact.woff) format("woff"),
+    url(genshin-impact.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Genshin Impact";
+  src: url(genshin-impact.woff2) format("woff2"),
+    url(genshin-impact.woff) format("woff"),
+    url(genshin-impact.ttf) format("truetype");
+}

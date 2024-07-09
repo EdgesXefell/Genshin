@@ -1,0 +1,161 @@
+@import url("../Ressources/fonts/genshin-impact.css");
+
+:root {
+    --color : #D1C6B2;
+    --color-dark : #989082;
+    --shade : rgb(0, 0, 0, 0.5);
+    --darker-shade : rgb(0, 0, 0, 0.8);
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "Genshin Impact";
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0.8),
+        rgba(0, 0, 0, 0.8)
+    ), url("https://staticg.sportskeeda.com/editor/2023/04/98ea4-16818555334033-1920.jpg");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.generate {
+    padding: 10px 50px;
+    min-width: 300px;
+    font-size: 30px;
+    color: black;
+    background-color: var(--color);
+    border-bottom: solid 7px var(--color-dark);
+    border-radius: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.generate:hover {
+    margin-top: 3px;
+    border: none;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.boss {
+    cursor: pointer;
+    width: 430px;
+    height: 620px;
+    background-image: linear-gradient(
+        var(--shade),
+        var(--shade)
+    ), url("https://64.media.tumblr.com/760f06e5044f8c8d0e31c6ba74194f3a/888190aab37095b7-74/s500x750/b76c2927a78be6a95c33a803cd34bba692b32684.png");
+    background-repeat: no-repeat;
+    background-size: 110%;
+    background-position: center;
+    position: relative;
+    border-radius: 15px;
+    border: solid 7px var(--color);
+}
+
+.boss * {
+    position: absolute;
+}
+
+.boss h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: var(--color);
+    font-size: 27px;
+    width: 100%;
+    min-height: 25%;
+    background-color: var(--darker-shade);
+    padding: 30px 20px;
+    z-index: 3;
+}
+
+.boss .img-frame {
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.boss .img-frame img {
+    height: 100%;
+}
+
+.player {
+    cursor: pointer;
+    color: var(--color);
+    height: 600px;
+    width: 350px;
+    border: solid ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 35px;
+    border-radius: 15px;
+    border: solid 3px var(--color);
+    padding: 20px;
+}
+
+.character {
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.character .img-frame {
+    border: solid 1px var(--color);
+    border-radius: 15px;
+    height: 220px;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: linear-gradient(
+        to bottom,
+        var(--darker-shade),
+        var(--darker-shade)
+        ),url("https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest?cb=20201117071158");
+    background-position: center;
+    background-size: 50%;
+}
+
+.character h2 {
+    width: 100%;
+}
+
+.character .img-frame img {
+    margin: -30px;
+    width: 110%;
+}
