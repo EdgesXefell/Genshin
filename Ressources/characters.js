@@ -569,7 +569,7 @@ const characters = {
         "idle1" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/29/158750877/3aa2c556aa8ab8018b6ae6f6413ec987_3476510114059938333.gif",
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/29/158750877/d1c83d5a8984a781e7c49e5c592c23cf_6309144852660955551.gif",
         "constellation" : "", 
-        "TCG" : "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Kuki_Shinobu_Character_Card.png/revision/latest?cb=20240425213341",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Shinobu.sm.png?vh=2024060201",
         "TCG_" : "",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Omurice%2520Waltz_icon.png"
     },
@@ -624,7 +624,7 @@ const characters = {
         "idle1" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/10/24/125691367/8f58eb9ce1e815264de9329e40320dfc_4485313743214877527.gif",
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/10/24/125691367/44c40ca5e4fde41c7b021627f7bcb9b1_5321719225278217009.gif",
         "constellation" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/04/26/43281454/27351f4284935cc202704e3b9de757f0_4833840599245999206.png?x-oss-process=image%2Fformat%2Cwebp", 
-        "TCG" : "https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Nilou_Character_Card.png/revision/latest?cb=20231112065859",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Nilou.sm.png?vh=2024060201",
         "TCG_" : "",
         "dish" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/18/158750877/fd1cf88b1b8e6eb779d7dbc7aa41c28a_3139922009609286812.png?x-oss-process=image%2Fformat%2Cwebp"
     },
@@ -713,7 +713,7 @@ const characters = {
         "idle1" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/17/43281454/45e4be0b992e199344b567e4369d5929_2241627965191448020.gif",
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/17/43281454/d6b81ddb7b5cb0652ec778d3d7f01eca_5732743451198348525.gif",
         "constellation" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/18/43281454/35a2437c1b80269f329989de728fee3a_2722284881609911303.png?x-oss-process=image%2Fformat%2Cwebp", 
-        "TCG" : "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Alhaitham_Character_Card.png/revision/latest?cb=20231221224755",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Alhatham.sm.png?vh=2024060201",
         "TCG_" : "",
         "dish" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/20/29705491/a043ae5c94605d8be6704b8f1afb6284_5844191576645513829.png?x-oss-process=image%2Fformat%2Cwebp"
     },
