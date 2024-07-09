@@ -33,32 +33,35 @@ const imgStyles = ["TCG_", "TCG", "icon", "card"];
 const dpsNameOne = document.getElementById("dps-one").getElementsByTagName("h2")[0];
 const dpsImgFrameOne = document.getElementById("dps-one").getElementsByClassName("img-frame")[0];
 const dpsImgOne = document.createElement("img"); //create element then append to parent
-dpsImgOne.src = "";
-dpsImgOne.alt = "";
+dpsImgOne.alt = "dpsOne";
 dpsImgFrameOne.appendChild(dpsImgOne);
 
 //instanciate player 1 SUB
 const subNameOne = document.getElementById("sub-one").getElementsByTagName("h2")[0];
 const subImgFrameOne = document.getElementById("sub-one").getElementsByClassName("img-frame")[0];
 const subImgOne = document.createElement("img"); //create element then append to parent
+subImgOne.alt = "subOne";
 subImgFrameOne.appendChild(subImgOne);
 
 //instanciate player 2 DPS
 const dpsNameTwo = document.getElementById("dps-two").getElementsByTagName("h2")[0];
 const dpsImgFrameTwo = document.getElementById("dps-two").getElementsByClassName("img-frame")[0];
 const dpsImgTwo = document.createElement("img"); //create element then append to parent
+dpsImgTwo.alt = "dpsTwo";
 dpsImgFrameTwo.appendChild(dpsImgTwo);
 
 //instanciate player 2 SUB
 const subNameTwo = document.getElementById("sub-two").getElementsByTagName("h2")[0];
 const subImgFrameTwo = document.getElementById("sub-two").getElementsByClassName("img-frame")[0];
 const subImgTwo = document.createElement("img"); //create element then append to parent
+subImgTwo.alt = "subTwo";
 subImgFrameTwo.appendChild(subImgTwo);
 
 function generateBossCoop() {
     generateBoss();
     generatePlayer(1, p1);
     generatePlayer(2, p2);
+    console.log(validCoop());
 }
 
 //instanciate boss
@@ -100,12 +103,13 @@ function generateCharacter(playerNumber, player, characterType) {
 }
 
 function randomizeCharacter(p, name, img, characterType) {
-    const newCharacter = p[characterType][randint(p[characterType].length-1)];
-    const characterImg = getImage(newCharacter);
-    name.innerHTML = newCharacter;
-    img.src = characterImg;
-    img.alt = newCharacter;
-    console.log(characterType, name, img)
+    do {
+        const newCharacter = p[characterType][randint(p[characterType].length-1)];
+        const characterImg = getImage(newCharacter);
+        name.innerHTML = newCharacter;
+        img.src = characterImg;
+        img.alt = newCharacter;
+    } while ( !validCoop() );
 }
 
 function getImage(character) {
@@ -122,6 +126,12 @@ function getImage(character) {
         }
     });
     */
+}
+
+function validCoop() {
+    const coopComp = [dpsImgOne.alt, subImgOne.alt, dpsImgTwo.alt, subImgTwo.alt];
+    console.log(coopComp)
+    return new Set(coopComp).size == 4;
 }
 
 function randint(max) {
