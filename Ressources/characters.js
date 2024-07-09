@@ -1,3 +1,5 @@
+//https://ambr.top/en/gcg
+
 const characters = {
     "Qiqi" : {
         "icon" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Qiqi_icon.png",
@@ -39,7 +41,7 @@ const characters = {
         "idle1" : "",
         "idle2" : "",
         "constellation" : "", 
-        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Yunjin.sm.png?vh=2024060201",
+        "TCG" : "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_card_face_uec8eg/8a12466955cf940d49df985c0d1f3e95.png?x-oss-process=image%2Fquality%2CQ_85%2Fformat%2Cjpg",
         "TCG_" : "",
         "dish" : ""
     },
@@ -83,7 +85,7 @@ const characters = {
         "idle1" : "",
         "idle2" : "",
         "constellation" : "", 
-        "TCG" : "",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Ningguang.sm.png?vh=2024060201",
         "TCG_" : "",
         "dish" : ""
     },
@@ -94,7 +96,7 @@ const characters = {
         "idle1" : "",
         "idle2" : "",
         "constellation" : "", 
-        "TCG" : "",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Kaeya.sm.png?vh=2024060201",
         "TCG_" : "",
         "dish" : ""
     },
@@ -127,7 +129,7 @@ const characters = {
         "idle1" : "",
         "idle2" : "",
         "constellation" : "", 
-        "TCG" : "",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Klee.sm.png?vh=2024060201",
         "TCG_" : "",
         "dish" : ""
     },
@@ -149,7 +151,7 @@ const characters = {
         "idle1" : "",
         "idle2" : "",
         "constellation" : "", 
-        "TCG" : "",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Ambor.sm.png?vh=2024060201",
         "TCG_" : "",
         "dish" : ""
     },
@@ -171,12 +173,12 @@ const characters = {
         "idle1" : "",
         "idle2" : "",
         "constellation" : "", 
-        "TCG" : "",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Tohma.sm.png?vh=2024060201",
         "TCG_" : "",
         "dish" : ""
     },
     "Aether" : {
-        "icon" : "",
+        "icon" : "https://upload-os-bbs.hoyolab.com/upload/2021/08/03/141256589/5ae11657b3f1494663bb386875343a9e_4124256634080313161.png",
         "card" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E6%2597%2585%25E8%25A1%258C%25E8%2580%2585%25EF%25BC%2588%25E6%2597%25A0%25E5%25B1%259E%25E6%2580%25A7%25EF%25BC%2589/avatar_header.jpg",
         "avatar" : "",
         "idle1" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/29/158750877/85c4578881d9bf1e14268b8f40127840_4357875121624639498.gif",
@@ -187,8 +189,8 @@ const characters = {
         "dish" : ""
     },
     "Lumine" : {
-        "icon" : "",
-        "card" : "",
+        "icon" : "https://images.gach.app/genshin/UI_AvatarIcon_PlayerGirl.webp",
+        "card" : "https://upload-os-bbs.hoyolab.com/upload/2023/04/08/90771404/2d09213a55c9530c18f181b51b601580_4424591332177173189.jpg?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70",
         "avatar" : "",
         "idle1" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/23/43281454/ccfa6241c7aa46c083decc16572a5994_5537472393768627302.gif",
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/23/43281454/352d9d639f31486eb2744d38d3e69502_6839172445524588178.gif",
@@ -644,7 +646,7 @@ const characters = {
         "idle1" : "",
         "idle2" : "",
         "constellation" : "", 
-        "TCG" : "",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Candace.sm.png?vh=2024060201",
         "TCG_" : "",
         "dish" : ""
     },
@@ -667,7 +669,7 @@ const characters = {
         "idle1" : "",
         "idle2" : "",
         "constellation" : "", 
-        "TCG" : "",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Layla.sm.png?vh=2024060201",
         "TCG_" : "",
         "dish" : ""
     },
@@ -700,7 +702,7 @@ const characters = {
         "idle1" : "",
         "idle2" : "",
         "constellation" : "", 
-        "TCG" : "",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Yaoyao.sm.png?vh=2024060201",
         "TCG_" : "",
         "dish" : ""
     },
@@ -712,7 +714,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/17/43281454/d6b81ddb7b5cb0652ec778d3d7f01eca_5732743451198348525.gif",
         "constellation" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/18/43281454/35a2437c1b80269f329989de728fee3a_2722284881609911303.png?x-oss-process=image%2Fformat%2Cwebp", 
         "TCG" : "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Alhaitham_Character_Card.png/revision/latest?cb=20231221224755",
-        "TCG_" : "https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Alhaitham_Dynamic_Skin.gif/revision/latest?cb=20240107124433",
+        "TCG_" : "",
         "dish" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/20/29705491/a043ae5c94605d8be6704b8f1afb6284_5844191576645513829.png?x-oss-process=image%2Fformat%2Cwebp"
     },
     "Mika" : {
