@@ -832,7 +832,7 @@ const characters = {
         "idle1" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/11/08/43281454/a3b88809bc21307cb71ae3fcb5386eb0_4381278133184777093.gif",
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/11/08/43281454/1bcce0e25d1668ebb178b4dc5c3f6b34_865293291816675391.gif",
         "constellation" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/11/15/43281454/96f6027b5662beda90d0da6dc43d5447_682233364912030269.png?x-oss-process=image%2Fformat%2Cwebp", 
-        "TCG" : "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Furina_Character_Card.png/revision/latest?cb=20240528044514",
+        "TCG" : "https://upload-os-bbs.hoyolab.com/upload/2024/04/27/344918661/172121e32f372649e8ac6ff450a726d7_9051260539487000836.jpg?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70",
         "TCG_" : "",
         "dish" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/01/09/170542231/6ed3e9e7d5e82ccb2f1d0b95b83a04c5_5614729113507399741.png?x-oss-process=image%2Fformat%2Cwebp"
     },
