@@ -68,7 +68,7 @@ bossImgFrame.appendChild(bossImg);
 
 function generateBoss() {
     const boss = CoopBosses[randint(CoopBosses.length)];
-    const bossURL = weekly_bosses[boss]["avatar"];
+    const bossURL = weekly_bosses[boss]["img2"];
     bossName.innerHTML = boss;
     bossImg.src = bossURL;
     bossImg.alt = boss;
