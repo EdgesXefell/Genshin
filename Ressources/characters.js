@@ -9,7 +9,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/29/94376896/4395e6044af1c591782705e78df169bf_4110408777169779396.gif",
         "constellation" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/11/12/35428890/80e0fe06213b7939352581b88aed52a0_6130656366370947066.png?x-oss-process=image%2Fformat%2Cwebp",
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/14/35428890/0edf905560ff08d4b819cd5bb21578eb_1444940328250211968.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/27/35428890/94d2ca6c55dcc23af5a7aaecadbc05ca_1639639872478942806.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/27/35428890/94d2ca6c55dcc23af5a7aaecadbc05ca_1639639872478942806.gif",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/No%2520Tomorrow_icon.png"
     },
     "Lisa" : {
@@ -20,7 +20,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/02/01/1023623/8d7bc0aacf62efe2acba5c40120cfafd_4427711010373240838.gif",
         "constellation" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/02/01/1023623/1bf35351440d1f488e18aeccf98e2bcc_8720378804905804101.png?x-oss-process=image%2Fformat%2Cwebp",
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/14/35428890/81211fd394258d684252bc7b66079637_3840330357066508243.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/27/35428890/06fc481327639d52139b05136166363e_6073915188602276159.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/27/35428890/06fc481327639d52139b05136166363e_6073915188602276159.gif",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Mysterious%2520Bolognese_icon.png",
     },
     "Kujou Sara" : {
@@ -31,7 +31,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/03/02/35428890/acc3d5384e89f0f33f1586a4b283f62a_4365971529098000177.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/03/02/35428890/acc3d5384e89f0f33f1586a4b283f62a_4365971529098000177.gif",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Faith%2520Eternal_icon.png"
     },
     "Yun Jin" : {
@@ -42,7 +42,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_card_face_uec8eg/8a12466955cf940d49df985c0d1f3e95.png?x-oss-process=image%2Fquality%2CQ_85%2Fformat%2Cjpg",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Gorou" : {
@@ -53,7 +53,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2023/12/17/35653081/39df61d2d536e9aa7e075451fcfaa03f_6161640050265030791.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2023/12/19/35653081/e7dc484ef76847c706f7badfcc206ad9_2197537385618390645.gif",
+        "TCG*" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2023/12/19/35653081/e7dc484ef76847c706f7badfcc206ad9_2197537385618390645.gif",
         "dish" : ""
     },
     "Eula" : {
@@ -64,7 +64,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/03/13/35653081/6d68e14ae4fbc1799d2d64b671905f01_6046546678742149214.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/03/13/35653081/0b2cb5ce00c8f2da5918e0634f1f97a6_2551636620121480800.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/03/13/35653081/0b2cb5ce00c8f2da5918e0634f1f97a6_2551636620121480800.gif",
         "dish" : ""
     },
     "Yae Miko" : {
@@ -75,7 +75,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/31/158750877/0573b361904fffee843e7ce6d3ed8f4a_8286473302543742048.gif",
         "constellation" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/03/06/43281454/d0dfaf72ccbf0f1951129c8ce932f9ad_6818983435030697729.png?x-oss-process=image%2Fformat%2Cwebp", 
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/23/35653081/343ab804c901e9d3c328c09a77c76b6f_3629036262107431093.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/25/35653081/30dea49f69821a0080eb13979828052d_5457268813058237270.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/25/35653081/30dea49f69821a0080eb13979828052d_5457268813058237270.gif",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Fukuuchi%2520Udon_icon.png"
     },
     "Ningguang" : {
@@ -86,7 +86,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Ningguang.sm.png?vh=2024060201",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Kaeya" : {
@@ -97,7 +97,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Kaeya.sm.png?vh=2024060201",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Keqing" : {
@@ -108,7 +108,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/29/158750877/6cddb13fe772448f80a7c72019d51f6c_8017077135288296595.gif",
         "constellation" : "", 
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/07/158750877/9135fdcb8dc1dca18a13b4f4818cb2d2_96437823265897362.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/17/35653081/acb0440a9963f4856b6811cc77076c93_8951487136561897201.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/17/35653081/acb0440a9963f4856b6811cc77076c93_8951487136561897201.gif",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Survival%2520Grilled%2520Fish_icon.png"
     },
     "Beidou" : {
@@ -119,7 +119,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/29/158750877/0ad9cda631093f8f1f41551f9bedab5f_8974200359814882917.gif",
         "constellation" : "", 
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/26/35653081/1f931f6c3173e91dd29af995af8ded12_5849520438275772874.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/31/35653081/9a0e0c55af3c72b2c97e45e3596e3d0f_2774287081829987232.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/31/35653081/9a0e0c55af3c72b2c97e45e3596e3d0f_2774287081829987232.gif",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Flash-Fried%2520Filet_icon.png"
     },
     "Klee" : {
@@ -130,7 +130,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Klee.sm.png?vh=2024060201",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Aloy" : {
@@ -141,7 +141,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/28/158750877/e0fcf47342fd953352d2a2d085f49fb3_3107626818941577120.gif",
         "constellation" : "", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Amber" : {
@@ -152,7 +152,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Ambor.sm.png?vh=2024060201",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Yoimiya" : {
@@ -163,7 +163,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/31/158750877/597cb61eabdc8eb7d3bf404323dade38_2908174547209480374.gif",
         "constellation" : "", 
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/07/158750877/8eebdb1373c73b32dbf037951bd65111_8465922939689309909.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/18/35653081/41b8fcf38eaf250301ae2fdcd22bf6e0_8866982802670818140.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/18/35653081/41b8fcf38eaf250301ae2fdcd22bf6e0_8866982802670818140.gif",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Summer%2520Festival%2520Fish_icon.png"
     },
     "Thoma" : {
@@ -174,7 +174,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/30/158750877/53683b1e6316b624a28e74ba73276254_1720829626750317514.gif",
         "constellation" : "", 
         "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Tohma.sm.png?vh=2024060201",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/%2522Warmth%2522_icon.png"
     },
     "Aether" : {
@@ -185,7 +185,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/29/158750877/3f7dbc4172218929015021e24bb88fdd_5769882902188669098.gif",
         "constellation" : "", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Lumine" : {
@@ -196,7 +196,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/23/43281454/352d9d639f31486eb2744d38d3e69502_6839172445524588178.gif",
         "constellation" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/23/43281454/b52c223c26ffc36476ad3bb30f9f37cb_3673296951365891804.png?x-oss-process=image%2Fformat%2Cwebp", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Paimon" : {
@@ -207,7 +207,7 @@ const characters = {
         "idle2" : "https://static.wikia.nocookie.net/gensin-impact/images/b/be/Idle_Lumine_2.gif/revision/latest?cb=20211008215049",
         "constellation" : "", 
         "TCG" : "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/The_Bestest_Travel_Companion%21_Event_Card.png/revision/latest?cb=20221205102652",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Sayu" : {
@@ -218,7 +218,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Kaedehara Kazuha" : {
@@ -229,7 +229,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/29/158750877/b3d265b10301eaf5d3c9dc3c20ce6e88_6162420363913982734.gif",
         "constellation" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/06/15/43281454/42936b5162668db45a325018cccf951e_1826493594009705073.png?x-oss-process=image%2Fformat%2Cwebp", 
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/07/03/35653081/86860a04df9541ce4306a533190e469b_6890390386431409050.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/07/17/35653081/bc4eecff13e9d83d6017db81462c30ed_686949562147309380.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/07/17/35653081/bc4eecff13e9d83d6017db81462c30ed_686949562147309380.gif",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/All-Weather%2520Beauty_icon.png"
     },
     "Venti" : {
@@ -240,7 +240,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Yanfei" : {
@@ -251,7 +251,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/31/158750877/dd61c6d2e7360c9d3a6f78ba9c8ea47d_4087339097848349804.gif",
         "constellation" : "", 
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/07/03/35653081/96cf1ba5e8affb67f2427407e37f0e10_1242813218230052108.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/07/17/35653081/1b0c9f9f9c5342a00aa318be2e78c48a_2959142783938391216.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/07/17/35653081/1b0c9f9f9c5342a00aa318be2e78c48a_2959142783938391216.gif",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/%2522My%2520Way%2522_icon.png"
     },
     "Sangonomiya Kokomi" : {
@@ -262,7 +262,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/30/158750877/98b55890d53f4f3832ae64df41e3b9f5_4284723027474492847.gif",
         "constellation" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/07/11/43281454/a7e8b7002368e149894082152ee24bcf_7213223514487837820.png?x-oss-process=image%2Fformat%2Cwebp", 
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/03/08/35653081/b29a2e6be38663b3308b587eb20bc53c_2613716174623168577.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/03/08/35653081/05027cf0106e622c436d74a056e52d46_3345668401596473314.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/03/08/35653081/05027cf0106e622c436d74a056e52d46_3345668401596473314.gif",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/A%2520Stunning%2520Stratagem_icon.png"
     },
     "Bennett" : {
@@ -273,7 +273,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/29/158750877/ead150a81a57c6c117778e553960d1d4_8373226045607219204.gif",
         "constellation" : "", 
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/07/158750877/9d7ad9d3cf203bf7ff1f53966709c4f1_6997996700487658647.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/18/35653081/3d298ba1ea808877b696c573368f1d0d_759497181248825854.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/18/35653081/3d298ba1ea808877b696c573368f1d0d_759497181248825854.gif",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Teyvat%2520Charred%2520Egg_icon.png"
     },
     "Jean" : {
@@ -284,7 +284,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Ganyu" : {
@@ -295,7 +295,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/29/158750877/2304b9dfb9ef81b3c825577d4df9ebd6_8362494679724783795.gif",
         "constellation" : "", 
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/06/158750877/e5c7d702f8033c4361f3b25a7f0b8b30_2998629243767144980.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/22/158750877/4c20b3695256f698c3c5ebb5819c9062_5773397454914088903.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/22/158750877/4c20b3695256f698c3c5ebb5819c9062_5773397454914088903.gif",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Prosperous%2520Peace_icon.png"
     },
     "Shenhe" : {
@@ -306,7 +306,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/30/158750877/9084780ac434b0a13136c47e992081a1_3455810757497905794.gif",
         "constellation" : "", 
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/22/35653081/9d4755dfcf7b10e16ef5cd965065bd8f_6410921291702013791.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/24/35653081/239f174b659f428962c1ee30a555522f_1747356402463397749.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/24/35653081/239f174b659f428962c1ee30a555522f_1747356402463397749.gif",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Heartstring%2520Noodles_icon.png"
     },
     "Sucrose" : {
@@ -317,7 +317,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Kamisato Ayato" : {
@@ -328,7 +328,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/29/158750877/29b179efee9109af24869cf0ff6e8eb0_5902196223314565697.gif",
         "constellation" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/11/30/43281454/1be19e06d62f9d3e887297fa9d503749_163519356097347668.png?x-oss-process=image%2Fformat%2Cwebp", 
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/04/18/35653081/fecf89a6a9b22c356816fea1c2cae7f3_6135811635311573098.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/04/18/35653081/9474e02cf23c781b4ecf10596d0b864d_6706132905420876309.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/04/18/35653081/9474e02cf23c781b4ecf10596d0b864d_6706132905420876309.gif",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Quiet%2520Elegance_icon.png"
     },
     "Kamisato Ayaka" : {
@@ -339,7 +339,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/29/158750877/74bf77ea19d2ff44a3a4b264a5929d0e_6695071995591039566.gif",
         "constellation" : "", 
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/07/158750877/211461a497211dfc0494d14820e78a9e_1467964286819279629.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/22/158750877/7ba170fa9d954aca17789fb1a1a1da42_3243906750365839141.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/22/158750877/7ba170fa9d954aca17789fb1a1a1da42_3243906750365839141.gif",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/%2522Snow%2520on%2520the%2520Hearth%2522_icon.png"
     },
     "Rosaria" : {
@@ -350,7 +350,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/30/158750877/06419675499e1f0918cb93e64aab29e9_7309011344558887496.gif",
         "constellation" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/07/26/43281454/105d7a50cb6b4ba26e032a1dce37c1ba_507225437619721633.png?x-oss-process=image%2Fformat%2Cwebp", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Hu Tao" : {
@@ -361,7 +361,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/29/158750877/e86a5d128d492c40abf08339937c0159_8565253324910418419.gif",
         "constellation" : "", 
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/22/35653081/60ba0a8d8ed5b184d24e6c8a6dc477c5_6610334343160247994.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/25/35653081/45e8896c7a17c95a0072c06a731d29df_5667547001097772965.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/25/35653081/45e8896c7a17c95a0072c06a731d29df_5667547001097772965.gif",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Ghostly%2520March_icon.png"
     },
     "Barbara" : {
@@ -372,7 +372,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Arataki Itto" : {
@@ -383,7 +383,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/29/158750877/2669292a03f996c27674268c72fd2a76_2067232246792438049.gif",
         "constellation" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/03/19/43281454/c7628eeb80865cbf9cd007d5d1cdc50e_3861975166804018444.png?x-oss-process=image%2Fformat%2Cwebp", 
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/04/18/35653081/d84e70d6e7e547982240bbd1da5a0b64_1670264352787581358.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/04/18/35653081/6a1d01c32579b96636c9bd792fe32fa5_9075737724682584546.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/04/18/35653081/6a1d01c32579b96636c9bd792fe32fa5_9075737724682584546.gif",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Way%2520of%2520the%2520Strong_icon.png"
     },
     "Mona" : {
@@ -394,7 +394,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Fischl" : {
@@ -405,7 +405,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/29/158750877/f544e0727d3a88666b62de3b3adc91fb_3461327154791662993.gif",
         "constellation" : "",
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/08/158750877/a122204b72ab4c460887089b8e4664be_3370696317063891767.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/16/35653081/471fee6bbab2dce8980f473a4ec0c8b8_5875315270115736228.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/16/35653081/471fee6bbab2dce8980f473a4ec0c8b8_5875315270115736228.gif",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Die%2520Heilige%2520Sinfonie_icon.png"
     },
     "Xingqiu" : {
@@ -416,7 +416,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/30/158750877/d6b1d7719a00ec7fb61c911659d82a94_1900195207516422438.gif",
         "constellation" : "", 
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/07/158750877/c37e98b53fc0f199d1c821b38717a80c_6366075563112487890.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/11/35653081/c96a099075eb78689d1fce631c87397b_8834595351873301977.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/11/35653081/c96a099075eb78689d1fce631c87397b_8834595351873301977.gif",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/All-Delicacy%2520Parcels_icon.png"
     },
     "Noelle" : {
@@ -427,7 +427,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Xinyan" : {
@@ -438,7 +438,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Tartaglia" : {
@@ -449,7 +449,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/30/158750877/d48b00757df35d408043030764fe6ccf_9024010457918774211.gif",
         "constellation" : "", 
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/22/35653081/2db46f62068c4f545f787ef481fe73c8_3805937683707225110.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/24/35653081/b2d2b7eee240a144baffc7206f10caf6_3727335796059489407.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/24/35653081/b2d2b7eee240a144baffc7206f10caf6_3727335796059489407.gif",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/A%2520Prize%2520Catch_icon.png"
     },
     "Diluc" : {
@@ -460,7 +460,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/29/158750877/2e6ad0cd50c50b428b8a9afdec7bf3bd_8747146693012732248.gif",
         "constellation" : "", 
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/07/158750877/1692ce668a14a238e1fa6b763b9ae0ce_2024937334261102610.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/14/35653081/c2d523d42c791a74178eaf69f6b0502c_1669624178878988274.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/14/35653081/c2d523d42c791a74178eaf69f6b0502c_1669624178878988274.gif",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/%2522Once%2520Upon%2520a%2520Time%2520in%2520Mondstadt%2522_icon.png"
     },
     "Diona" : {
@@ -471,7 +471,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/29/158750877/23c4a1af451d690092cd662c4a86d30c_666506204214662188.gif",
         "constellation" : "", 
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/06/158750877/dfe48d2c4b0583d5d014e34244fbf677_8315365788286874925.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/18/35653081/a2ffe219b97506335c917de8aaf51d9a_7273313857727805128.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/18/35653081/a2ffe219b97506335c917de8aaf51d9a_7273313857727805128.gif",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Definitely%2520Not%2520Bar%2520Food!_icon.png"
     },
     "Chongyun" : {
@@ -482,7 +482,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Zhongli" : {
@@ -493,7 +493,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/31/158750877/58e30489f3741f05acb0bf0d74089e88_7412259438176225275.gif",
         "constellation" : "", 
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/23/35653081/bd5bddc9ee14fd21cae9bf64fe758681_2618220701049108416.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/29/35653081/0bbd1bcefa05c9380c8991311614310d_5860923961244001106.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/29/35653081/0bbd1bcefa05c9380c8991311614310d_5860923961244001106.gif",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Slow-Cooked%2520Bamboo%2520Shoot%2520Soup_icon.png"
     },
     "Albedo" : {
@@ -504,7 +504,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/14/35653081/6d991f4917ed756cad5d44ab166cf5f7_4862355688498664119.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/09/02/35653081/2267b61c478f370d9ff47895f6405970_7972419134511990893.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/09/02/35653081/2267b61c478f370d9ff47895f6405970_7972419134511990893.gif",
         "dish" : ""
     },
     "Razor" : {
@@ -515,7 +515,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Raiden Shogun" : {
@@ -526,7 +526,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/30/158750877/db510e26021410ed2225fdf05d748abe_3522697416029233364.gif",
         "constellation" : "", 
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/22/35653081/93d75f397cef4378db5407389f7ee3c9_9127443611258327671.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/25/35653081/f560a868033f48a8f3993f0b06782462_2186930612974173935.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/25/35653081/f560a868033f48a8f3993f0b06782462_2186930612974173935.gif",
         "dish" : ""
     },
     "Xiangling" : {
@@ -537,7 +537,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/30/158750877/71a9c01c3b6f9e60c39bd3d8f8a7e003_4634216395304734072.gif",
         "constellation" : "", 
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/07/158750877/6219bf1fb0b7c46b8ecf960443f737d5_1876140328025530610.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/17/35653081/56eeac3bc5d26b12aeaed8198d38ac7b_6600386512415635189.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/17/35653081/56eeac3bc5d26b12aeaed8198d38ac7b_6600386512415635189.gif",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Wanmin%2520Restaurant's%2520Boiled%2520Fish_icon.png"
     },
     "Xiao" : {
@@ -548,7 +548,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/30/158750877/160c19cb9ecfd9ccea6d55e89eb8e2db_2068448698087873607.gif",
         "constellation" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/03/158750877/17c3a3b4ec4e1440b58b2da63462c09f_7649822400933583448.png?x-oss-process=image%2Fformat%2Cwebp", 
         "TCG" : "",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/28/35653081/5ec71e97e4999cca2c64092f7bfa513f_3260073104745389812.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/28/35653081/5ec71e97e4999cca2c64092f7bfa513f_3260073104745389812.gif",
         "dish" : ""
     },
     "Yelan" : {
@@ -559,7 +559,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/31/158750877/f5a882ce0e420d5381fcc3df650f262c_8979047915649186823.gif",
         "constellation" : "", 
         "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Yelan.sm.png?vh=2024060201",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Dew-Dipped%2520Shrimp_icon.png"
     },
     "Kuki Shinobu" : {
@@ -570,7 +570,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/29/158750877/d1c83d5a8984a781e7c49e5c592c23cf_6309144852660955551.gif",
         "constellation" : "", 
         "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Shinobu.sm.png?vh=2024060201",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Omurice%2520Waltz_icon.png"
     },
     "Shikanoin Heizou" : {
@@ -581,7 +581,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "",
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Tighnari" : {
@@ -592,7 +592,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Collei" : {
@@ -603,7 +603,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Dori" : {
@@ -614,7 +614,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Nilou" : {
@@ -625,7 +625,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/10/24/125691367/44c40ca5e4fde41c7b021627f7bcb9b1_5321719225278217009.gif",
         "constellation" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/04/26/43281454/27351f4284935cc202704e3b9de757f0_4833840599245999206.png?x-oss-process=image%2Fformat%2Cwebp", 
         "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Nilou.sm.png?vh=2024060201",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/18/158750877/fd1cf88b1b8e6eb779d7dbc7aa41c28a_3139922009609286812.png?x-oss-process=image%2Fformat%2Cwebp"
     },
     "Cyno" : {
@@ -636,7 +636,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/09/29/158750877/55e46d9ed5c4ab94a7fdc85ae0751cb0_1103897711764102448.gif",
         "constellation" : "", 
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/07/158750877/db8014e0721b2353345a7e72764c166f_7911184594092960433.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/16/35653081/462b794c052ef80a2855a9d8c49f8017_8728995593046993316.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/16/35653081/462b794c052ef80a2855a9d8c49f8017_8728995593046993316.gif",
         "dish" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/20/29705491/38d46d803c5192cd9e7584b35ebbe59f_4417578939183407452.png?x-oss-process=image%2Fformat%2Cwebp"
     },
     "Candace" : {
@@ -647,7 +647,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Candace.sm.png?vh=2024060201",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Nahida" : {
@@ -659,7 +659,7 @@ const characters = {
         "idle3" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/11/11/43281454/901ccc58d2a1e5a2000ce6c7f192fd9f_2409882107822999464.gif",
         "constellation" : "", 
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/24/35653081/d19f6f9f8ca5ebe5120a00ff4a5331e0_8430958286061265103.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/29/35653081/a5a504a8da1d11c7c6215fd355caeba6_4139411847500910944.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/29/35653081/a5a504a8da1d11c7c6215fd355caeba6_4139411847500910944.gif",
         "dish" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/27/125691367/0156a13895153083172e374ef868ad38_6951750255038564338.png?x-oss-process=image%2Fformat%2Cwebp"
     },
     "Layla" : {
@@ -670,7 +670,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Layla.sm.png?vh=2024060201",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Faruzan" : {
@@ -681,7 +681,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/07/43281454/4b42908b8a897d5b4df5d6793ae7dae6_7233798954491274693.gif",
         "constellation" : "", 
         "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Faruzan.sm.png?vh=2024060201",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/30/43281454/1bdb53b78fff77ebbe3379e181ed147b_7266268931198784545.png?x-oss-process=image%2Fformat%2Cwebp"
     },
     "Wanderer" : {
@@ -692,7 +692,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/06/43281454/c793afe62a1b73928a5d43e8e1501332_1209848156650081838.gif",
         "constellation" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/18/43281454/cbadf099f5a8013b8aa955f513d840b8_7841244793392811160.png?x-oss-process=image%2Fformat%2Cwebp", 
         "TCG" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/09/27/35653081/ce89cee858b7e18759cc60ce9eb7657b_4714457076822513821.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/09/27/35653081/ec3e2e04f3a3af4db3ea9c29c9f1e146_8542219139248757921.gif",
+        "TCG*" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/09/27/35653081/ec3e2e04f3a3af4db3ea9c29c9f1e146_8542219139248757921.gif",
         "dish" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/20/29705491/e419209ae2439c28b5cb9d8777306595_6641608236781299685.png?x-oss-process=image%2Fformat%2Cwebp"
     },
     "Yaoyao" : {
@@ -703,7 +703,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Yaoyao.sm.png?vh=2024060201",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Alhaitham" : {
@@ -714,7 +714,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/17/43281454/d6b81ddb7b5cb0652ec778d3d7f01eca_5732743451198348525.gif",
         "constellation" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/18/43281454/35a2437c1b80269f329989de728fee3a_2722284881609911303.png?x-oss-process=image%2Fformat%2Cwebp", 
         "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Alhatham.sm.png?vh=2024060201",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/20/29705491/a043ae5c94605d8be6704b8f1afb6284_5844191576645513829.png?x-oss-process=image%2Fformat%2Cwebp"
     },
     "Mika" : {
@@ -725,7 +725,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Dehya" : {
@@ -736,7 +736,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Kaveh" : {
@@ -747,7 +747,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Baizu" : {
@@ -758,7 +758,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Kirara" : {
@@ -769,7 +769,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Lynette" : {
@@ -780,7 +780,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Lyney" : {
@@ -791,7 +791,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/16/43281454/e1081d4ff018a6b94cdd1be093148e9a_8421807690876553332.gif",
         "constellation" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/16/43281454/fcf641ab5cd4f758d614ceeb8bdc3e52_210139532476396698.png?x-oss-process=image%2Fformat%2Cwebp", 
         "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Liney.sm.png?vh=2024060201",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/01/10/170542231/28beb2675bd3b7c1115c2794e6dd5b55_815686522180050028.png?x-oss-process=image%2Fformat%2Cwebp"
     },
     "Freminet" : {
@@ -802,7 +802,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Wriosthesley" : {
@@ -813,7 +813,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/10/21/43281454/6186ce2180a5c8de7d8e79d2ecd37ab2_4507531304490438684.gif",
         "constellation" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/10/21/43281454/80ffbbd813c7090916a115c1eb54ddd8_8818592792962160564.png?x-oss-process=image%2Fformat%2Cwebp", 
         "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Wriothesley.sm.png?vh=2024060201",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/01/09/170542231/6956953a457207cef0f0b79e780a5d52_2762436963158245848.png?x-oss-process=image%2Fformat%2Cwebp"
     },
     "Neuvillette" : {
@@ -824,7 +824,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/09/28/43281454/076a8a5e15ace52b76cf7113c186f6bb_3779425477603081491.gif",
         "constellation" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/09/28/43281454/cbec2a96aca08e448a92d45e2563f910_4643588434268222188.png?x-oss-process=image%2Fformat%2Cwebp", 
         "TCG" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/05/06/35653081/b3e02e0cb0cf8f5d1f3510f4f3014bb3_8843357950890354586.png?x-oss-process=image%2Fformat%2Cwebp",
-        "TCG_" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/05/06/35653081/e474f5fb2ff2a4dc6e4331677e874294_2780890375726459268.gif",
+        "TCG*" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/05/06/35653081/e474f5fb2ff2a4dc6e4331677e874294_2780890375726459268.gif",
         "dish" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/01/09/170542231/4f58c4eb10e4a00ff7a664a081c7554c_5865009924388029268.png?x-oss-process=image%2Fformat%2Cwebp"
     },
     "Furina" : {
@@ -835,7 +835,7 @@ const characters = {
         "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/11/08/43281454/1bcce0e25d1668ebb178b4dc5c3f6b34_865293291816675391.gif",
         "constellation" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/11/15/43281454/96f6027b5662beda90d0da6dc43d5447_682233364912030269.png?x-oss-process=image%2Fformat%2Cwebp", 
         "TCG" : "https://upload-os-bbs.hoyolab.com/upload/2024/04/27/344918661/172121e32f372649e8ac6ff450a726d7_9051260539487000836.jpg?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/01/09/170542231/6ed3e9e7d5e82ccb2f1d0b95b83a04c5_5614729113507399741.png?x-oss-process=image%2Fformat%2Cwebp"
     },
     "Charlotte" : {
@@ -846,7 +846,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Navia" : {
@@ -857,7 +857,7 @@ const characters = {
         "idle2" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2023/12/20/43281454/9e231776859ce1d5afd1aa902c144f45_4177826617304010140.gif",
         "constellation" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2023/12/20/43281454/6ce53f1e25a22720208170a211f72745_7156072371145830709.png?x-oss-process=image%2Fformat%2Cwebp", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/01/09/170542231/6235efcee9aa1dd521315b820a8d007c_6574577449205937784.png?x-oss-process=image%2Fformat%2Cwebp",
     },
     "Chevreuse" : {
@@ -868,7 +868,7 @@ const characters = {
         "idle2" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/01/09/43281454/6518ae6658289a890b40b243871feb69_1771638237626722139.gif",
         "constellation" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/01/09/43281454/6590acadf9d3e4aad32003ac37e03198_2674282612542279025.png?x-oss-process=image%2Fformat%2Cwebp", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Xianyun" : {
@@ -879,7 +879,7 @@ const characters = {
         "idle2" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/02/15/43281454/e7070b43a27dc39d3d85938b5f036b67_6265436726278273269.gif",
         "constellation" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/02/15/43281454/4cdc645acee4e22072c1ec1ab39b8d43_2447439329781467546.png?x-oss-process=image%2Fformat%2Cwebp", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Gaming" : {
@@ -890,7 +890,7 @@ const characters = {
         "idle2" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/02/15/43281454/89514088caad9c3e4fbd63c2cfd265ec_4398607585235569452.gif",
         "constellation" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/02/15/43281454/4b410ed312a6024684c1fd9591a72c7c_7785281970293103599.png?x-oss-process=image%2Fformat%2Cwebp", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Chiori" : {
@@ -901,7 +901,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/03/13/43281454/c38e925a9b23ffa9c54c11e4623f6612_2256705108123881817.png?x-oss-process=image%2Fformat%2Cwebp", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Arlecchino" : {
@@ -912,7 +912,7 @@ const characters = {
         "idle2" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/05/22/43281454/ca789a4d016cbefd510d0480eb3ca179_8022820346398627168.gif",
         "constellation" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/04/24/43281454/e1185a0732ad771a615ee644c3a49a37_5282425314436649340.png?x-oss-process=image%2Fformat%2Cwebp", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/04/26/1254995/84d1796a9c750d3366857cb532c19178_2340456183896788980.png?x-oss-process=image%2Fformat%2Cwebp"
     },
     "Clorinde" : {
@@ -923,7 +923,7 @@ const characters = {
         "idle2" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/06/10/43281454/6aa0f6d4ddc47c83fedbfdcf1c528db2_8287861660973050464.gif",
         "constellation" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/06/05/43281454/d5b0233b316c81b37f033310363082c5_2905332223433939502.png?x-oss-process=image%2Fformat%2Cwebp", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/06/10/1254995/82d45973a76feaa0b28371b4b1d5a5f6_1305577900392558441.png?x-oss-process=image%2Fformat%2Cwebp"
     },
     "Sigewinne" : {
@@ -934,7 +934,7 @@ const characters = {
         "idle2" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/06/26/43281454/da088006f5f649a1b11640d41555ce16_875572052542287552.gif",
         "constellation" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/06/26/43281454/4520b813795e603aaaef27a8e1c51d95_1299263753108582957.png?x-oss-process=image%2Fformat%2Cwebp", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Sethos" : {
@@ -945,7 +945,7 @@ const characters = {
         "idle2" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/06/10/43281454/ab36deca395351a456e9462506b01d53_3524962902801501835.gif",
         "constellation" : "", 
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     },
     "Emilie" : {
@@ -956,7 +956,7 @@ const characters = {
         "idle2" : "",
         "constellation" : "",
         "TCG" : "",
-        "TCG_" : "",
+        "TCG*" : "",
         "dish" : ""
     }
 }

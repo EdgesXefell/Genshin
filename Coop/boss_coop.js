@@ -23,7 +23,7 @@ const CoopBosses = Object.keys(weekly_bosses);
 
 const p1 = bleu;
 const p2 = bords;
-const imgStyles = ["TCG_", "TCG", "icon", "card"];
+const imgStyles = ["TCG*", "TCG", "icon", "card"];
 
 //instanciate player 1 DPS
 const dpsNameOne = document.getElementById("dps-one").getElementsByTagName("h2")[0];
