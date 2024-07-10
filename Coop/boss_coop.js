@@ -15,7 +15,7 @@ const bords = {
         "Hu Tao", "Lyney", "Keqing"
     ],
     SUB : ["Yelan", "Raiden Shogun", "Kuki Shinobu", "Zhongli", "Bennett",
-        "Xiangling", "Lumine", "Yae Miko", "Xingqiu", "Faruzan", "Yun Jin", "Gorou",
+        "Xiangling", "Lumine", "Yae Miko", "Xingqiu", "Faruzan", "Yun Jin", "Gorou"
     ]
 }
 
@@ -100,7 +100,7 @@ function generateCharacter(playerNumber, player, characterType) {
 
 function randomizeCharacter(p, name, img, characterType) {
     do {
-        const newCharacter = p[characterType][randint(p[characterType].length-1)];
+        const newCharacter = p[characterType][randint(p[characterType].length)];
         const characterImg = getImage(newCharacter);
         name.innerHTML = newCharacter;
         img.src = characterImg;
