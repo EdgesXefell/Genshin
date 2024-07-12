@@ -371,7 +371,7 @@ const characters = {
         "idle1" : "",
         "idle2" : "",
         "constellation" : "", 
-        "TCG" : "",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Barbara.sm.png?vh=2024060201",
         "TCG*" : "",
         "dish" : ""
     },
@@ -393,7 +393,7 @@ const characters = {
         "idle1" : "",
         "idle2" : "",
         "constellation" : "", 
-        "TCG" : "",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Mona.sm.png?vh=2024060201",
         "TCG*" : "",
         "dish" : ""
     },
@@ -426,7 +426,7 @@ const characters = {
         "idle1" : "",
         "idle2" : "",
         "constellation" : "", 
-        "TCG" : "",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Noel.sm.png?vh=2024060201",
         "TCG*" : "",
         "dish" : ""
     },
@@ -437,7 +437,7 @@ const characters = {
         "idle1" : "",
         "idle2" : "",
         "constellation" : "", 
-        "TCG" : "",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Xinyan.sm.png?vh=2024060201",
         "TCG*" : "",
         "dish" : ""
     },
@@ -481,7 +481,7 @@ const characters = {
         "idle1" : "",
         "idle2" : "",
         "constellation" : "", 
-        "TCG" : "",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Chongyun.sm.png?vh=2024060201",
         "TCG*" : "",
         "dish" : ""
     },
@@ -514,7 +514,7 @@ const characters = {
         "idle1" : "",
         "idle2" : "",
         "constellation" : "", 
-        "TCG" : "",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Razor.sm.png?vh=2024060201",
         "TCG*" : "",
         "dish" : ""
     },
@@ -591,7 +591,7 @@ const characters = {
         "idle1" : "",
         "idle2" : "",
         "constellation" : "", 
-        "TCG" : "",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Tighnari.sm.png?vh=2024060201",
         "TCG*" : "",
         "dish" : ""
     },
@@ -602,7 +602,7 @@ const characters = {
         "idle1" : "",
         "idle2" : "",
         "constellation" : "", 
-        "TCG" : "",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Collei.sm.png?vh=2024060201",
         "TCG*" : "",
         "dish" : ""
     },
@@ -613,7 +613,7 @@ const characters = {
         "idle1" : "",
         "idle2" : "",
         "constellation" : "", 
-        "TCG" : "",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Dori.sm.png?vh=2024060201",
         "TCG*" : "",
         "dish" : ""
     },
@@ -750,16 +750,16 @@ const characters = {
         "TCG*" : "",
         "dish" : ""
     },
-    "Baizu" : {
-        "icon" : "",
-        "card" : "",
-        "avatar" : "",
-        "idle1" : "",
-        "idle2" : "",
-        "constellation" : "", 
-        "TCG" : "",
+    "Baizhu" : {
+        "icon" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/01/35653081/05599650d7f42e1c4adde373de6b297d_902344357684236871.png?x-oss-process=image%2Fformat%2Cwebp",
+        "card" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/04/25/35653081/cfa6bc3c76c3472c6a530cd6878a3f5c_3495280239898573412.jpg?x-oss-process=image%2Fformat%2Cwebp",
+        "avatar" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/01/35653081/0a29bc885777e12ff3db57de89034281_7303125281440553742.png?x-oss-process=image%2Fformat%2Cwebp",
+        "idle1" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/04/35653081/d9e263d65ad039c24ef4ef402fe85100_7484418983813828117.gif",
+        "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/04/35653081/0f5babc8e35bb209087618192371ca1c_7188339066014909929.gif",
+        "constellation" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/25/43281454/56e1cfa74adb64d53fa927b5c174e0f6_5897277628168202750.png?x-oss-process=image%2Fformat%2Cwebp", 
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Baizhuer.sm.png?vh=2024060201",
         "TCG*" : "",
-        "dish" : ""
+        "dish" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/21/29705491/2a81265255a0de3899ca4dfd73e7e040_5598919092952967712.png?x-oss-process=image%2Fformat%2Cwebp"
     },
     "Kirara" : {
         "icon" : "",
@@ -798,12 +798,12 @@ const characters = {
         "icon" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/09/06/43281454/8e44111a378f4e5379b8e7444e8c2daa_50754500036957300.png?x-oss-process=image%2Fformat%2Cwebp",
         "card" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/09/06/43281454/0f1c441c53480d800d684b1cf74be16a_4620773456622625.jpeg?x-oss-process=image%2Fformat%2Cwebp",
         "avatar" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/09/06/43281454/3bbf849df340372fb83ff1f4a9583d0a_7639283994532469701.png?x-oss-process=image%2Fformat%2Cwebp",
-        "idle1" : "",
-        "idle2" : "",
-        "constellation" : "", 
+        "idle1" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/09/06/43281454/a536cf70f30d1eb0af21c6b4d689e7a6_5825827346119361367.gif",
+        "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/09/06/43281454/6f51774c3fa0c769637ba6a011391d81_6407523609006455988.gif",
+        "constellation" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/09/06/43281454/93f96ee9d591212ee97912938b6c787f_4456413791150480486.png?x-oss-process=image%2Fformat%2Cwebp", 
         "TCG" : "",
         "TCG*" : "",
-        "dish" : ""
+        "dish" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/01/10/170542231/d5852706dcb1eea703e8a1ea5389a83c_3161540871914500201.png?x-oss-process=image%2Fformat%2Cwebp"
     },
     "Wriosthesley" : {
         "icon" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/10/17/43281454/31a0eb2dec5d69ca8dd7616572136b8b_5712583962390933796.png?x-oss-process=image%2Fformat%2Cwebp",
@@ -839,15 +839,15 @@ const characters = {
         "dish" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/01/09/170542231/6ed3e9e7d5e82ccb2f1d0b95b83a04c5_5614729113507399741.png?x-oss-process=image%2Fformat%2Cwebp"
     },
     "Charlotte" : {
-        "icon" : "",
-        "card" : "",
-        "avatar" : "",
-        "idle1" : "",
-        "idle2" : "",
-        "constellation" : "", 
-        "TCG" : "",
+        "icon" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/11/08/43281454/7bbbff3f35661a93b5091b1f17fae6c0_325733951018340888.png?x-oss-process=image%2Fformat%2Cwebp",
+        "card" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/09/26/43281454/a027fd7d4e0f2f5c20adbe393ccf57c8_4836495958292742229.png?x-oss-process=image%2Fformat%2Cwebp",
+        "avatar" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/11/08/43281454/45c552941667ceea4fabe74013738690_2077101650489603971.png?x-oss-process=image%2Fformat%2Cwebp",
+        "idle1" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/11/08/43281454/3cc45185ee335f2ffc557bac415f6fb1_4863666753754969966.gif",
+        "idle2" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/11/08/43281454/eeec01af2a374215cd65e106d9997889_2855849753127261962.gif",
+        "constellation" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/11/23/43281454/7798c641a8e5b33dbfaf0a417ad5c092_3420976474990532983.png?x-oss-process=image%2Fformat%2Cwebp", 
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Avatar_Charlotte.sm.png?vh=2024060201",
         "TCG*" : "",
-        "dish" : ""
+        "dish" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/01/09/170542231/ab78573b5c8b3f019c16a7037c80cac5_3354851318744519354.png?x-oss-process=image%2Fformat%2Cwebp"
     },
     "Navia" : {
         "icon" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2023/12/20/43281454/3fc7580c01a9e622692402889706c4db_7270126468561230888.png?x-oss-process=image%2Fformat%2Cwebp",
@@ -972,7 +972,8 @@ const weekly_bosses = {
         "icon" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/enemy/La%2520Signora_icon.png",
         "avatar" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/04/29/29705491/ceb6c91e45f0213b927808130bea9514_3057510975916331039.png?x-oss-process=image%2Fformat%2Cwebp",
         img1 : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/03/13/29705491/2be988ca1e451cbd3f4fc166416757de_6696716349755635687.png?x-oss-process=image%2Fformat%2Cwebp",
-        img2 : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/03/13/29705491/5ddf211c75aee8fef9f6789fdff6d0fe_4217908882176235665.png?x-oss-process=image%2Fformat%2Cwebp"
+        img2 : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/03/13/29705491/5ddf211c75aee8fef9f6789fdff6d0fe_4217908882176235665.png?x-oss-process=image%2Fformat%2Cwebp",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Monster_LaSignora.sm.png?vh=2024060201"    
     },
     "Loup du Nord, Seigneur du Territoire des loups, Andros" : {
         "icon" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/enemy/Lupus%2520Boreas,%2520Dominator%2520of%2520Wolves_icon.png",
@@ -990,13 +991,15 @@ const weekly_bosses = {
         "icon" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/enemy/Azhdaha_icon.png",
         "avatar" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/03/13/29705491/ff69720ba1de99d5de9ec069cff2a96b_3991943962976787906.png?x-oss-process=image%2Fformat%2Cwebp",
         img1 : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/03/13/29705491/7c28a90d6f6c80a9e62591e5990f1d9a_6764195212637499725.png?x-oss-process=image%2Fformat%2Cwebp",
-        img2 : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/03/13/29705491/3b98664384f772d3058c3f05ee5920a9_2815314177179360257.png?x-oss-process=image%2Fformat%2Cwebp"
+        img2 : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/03/13/29705491/3b98664384f772d3058c3f05ee5920a9_2815314177179360257.png?x-oss-process=image%2Fformat%2Cwebp",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Monster_Dahaka.sm.png?vh=2024060201"
     },
     "Stormterror Dvalin" : {
         "icon" : "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/enemy/Stormterror_icon.png",
         "avatar" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/03/13/29705491/f3fd61a8167cafa741a34137bb6f913b_7330674000472032185.png?x-oss-process=image%2Fformat%2Cwebp",
         img1 : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/03/13/29705491/1f5ae2ed15ff5d933bce695182892ec7_7440382041455383202.png?x-oss-process=image%2Fformat%2Cwebp",
-        img2 : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/03/13/29705491/ae2159dd659817bff3a408303c0d5322_2771831374993649976.png?x-oss-process=image%2Fformat%2Cwebp"
+        img2 : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/03/13/29705491/ae2159dd659817bff3a408303c0d5322_2771831374993649976.png?x-oss-process=image%2Fformat%2Cwebp",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Monster_Dvalin.sm.png?vh=2024060201"
     },
     "Shouji no Kami, le prodige (Scaramouche)" : {
         "icon" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/11/22/125691367/86791657203a69e453d8e217414b3f9e_4234623879867221728.png?x-oss-process=image%2Fformat%2Cwebp",
@@ -1008,13 +1011,15 @@ const weekly_bosses = {
         "icon" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/04/11/158750877/d6fda0fbccc37d41505ff1fcce5b6e77_7673977188205442604.png?x-oss-process=image%2Fformat%2Cwebp",
         "avatar" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/03/13/29705491/cd9ab41680afcd5735a3f6af8bec261e_6816734069336590941.png?x-oss-process=image%2Fformat%2Cwebp",
         img1 : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/03/13/29705491/42ef72974a3afdc4c83cb0edae9d79cc_5487201925801454314.png?x-oss-process=image%2Fformat%2Cwebp",
-        img2 : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/03/13/29705491/a306ee7de299341366ef42b49d5e82b7_189339882242232172.png?x-oss-process=image%2Fformat%2Cwebp"
+        img2 : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/03/13/29705491/a306ee7de299341366ef42b49d5e82b7_189339882242232172.png?x-oss-process=image%2Fformat%2Cwebp",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Monster_Apep.sm.png?vh=2024060201"
     },
     "Narval stellavore" : {
         "icon" : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/11/12/29705491/d6f05906844b79f1be3d4f049381a60f_3845183622517605441.png?x-oss-process=image%2Fformat%2Cwebp",
         "avatar" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/03/13/29705491/538f6bcb5bc4d806594a7d989a984641_1108169053737864151.png?x-oss-process=image%2Fformat%2Cwebp",
         img1 : "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/11/12/29705491/811d8a4d8fb7d529fd2de0686ddeb092_7682239391461973833.png?x-oss-process=image%2Fformat%2Cwebp",
-        img2 : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/03/13/29705491/5bdef309adbdd3e23340acb0036e5b41_2093639676878209484.png?x-oss-process=image%2Fformat%2Cwebp"
+        img2 : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/03/13/29705491/5bdef309adbdd3e23340acb0036e5b41_2093639676878209484.png?x-oss-process=image%2Fformat%2Cwebp",
+        "TCG" : "https://api.ambr.top/assets/UI/gcg/UI_Gcg_CardFace_Char_Monster_Ptahur.sm.png?vh=2024060201"
     },
     "Arlecchino" : {
         "icon" : "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/04/23/29705491/6673f62e348a0eb42218a128deb8410e_8284188489704472370.png?x-oss-process=image%2Fformat%2Cwebp",

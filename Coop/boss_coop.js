@@ -15,7 +15,8 @@ const bords = {
         "Hu Tao", "Lyney", "Keqing"
     ],
     SUB : ["Yelan", "Raiden Shogun", "Kuki Shinobu", "Zhongli", "Bennett",
-        "Xiangling", "Lumine", "Yae Miko", "Xingqiu", "Faruzan", "Yun Jin", "Gorou"
+        "Xiangling", "Lumine", "Yae Miko", "Xingqiu", "Faruzan", "Yun Jin", "Gorou",
+        "Baizhu", "Xianyun"
     ]
 }
 
